@@ -10,8 +10,8 @@ module.exports =
   bitmex: {
     test:{
         description: 'BitMEX TESTNET',
-        id:'a2HUumZWZJthqwq4h4TlpyxB',
-        secret: 'PcJBE9RxKVZrGZwzbyxhi4bdlt3_y3CNRCEYqohK4bDcBjmx',
+        id:'testnet_api_id',
+        secret: 'testnet_api_secret',
         url: 'https://testnet.bitmex.com'
     },
     live: { // LIVE !
